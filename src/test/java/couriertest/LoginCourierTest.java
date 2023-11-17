@@ -1,10 +1,9 @@
-package courier_test;
+package couriertest;
 
 import client.CourierClient;
 import data.CourierCredentials;
 import data.CourierData;
 import data.CourierGenerator;
-import io.qameta.allure.Step;
 import io.qameta.allure.junit4.DisplayName;
 import io.restassured.response.ValidatableResponse;
 import org.junit.After;

@@ -1,9 +1,8 @@
-package order_test;
+package ordertest;
 
 import client.CourierClient;
 import client.OrderClient;
 import data.*;
-import io.qameta.allure.Description;
 import io.qameta.allure.junit4.DisplayName;
 import io.restassured.http.ContentType;
 import io.restassured.response.ValidatableResponse;
